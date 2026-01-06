@@ -1,1 +1,1 @@
-FROM jetbrains/youtrack:2025.1.82518
+FROM jetbrains/youtrack:2025.3.114121
