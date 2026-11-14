@@ -1,1 +1,1 @@
-FROM gitlab/gitlab-ce:16.11.10-ce.0
+FROM registry.gitlab.com/gitlab-org/omnibus-gitlab/gitlab-ce:16.11.10-ce.0
